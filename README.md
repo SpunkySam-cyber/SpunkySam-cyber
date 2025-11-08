@@ -1,5 +1,22 @@
-# 💫 About Me:
-<br>🧠 About Me :<br><br>🔭 I’m currently working on:<br>AI-powered applications integrating FastAPI, React, and deep learning models.<br><br>🤝 I’m looking to collaborate on:<br>Open-source AI projects, ML research implementations, and innovative hackathon ideas aligned with the SDGs.<br><br>💬 I’m looking for help with:<br>Optimizing model deployment pipelines and improving inference performance for computer vision models.<br><br>🌱 I’m currently learning:<br>Transformers, Generative AI (GANs, VAEs), and AI Agent frameworks like LangChain.<br><br>💡 Ask me about:<br>Machine Learning, FastAPI, AI deployment, or fullstack AI project design.<br><br>⚡ Fun fact:<br>I enjoy turning complex AI papers into real-world applications — bridging the gap between research and engineering.<br>
+### 🧠 About Me :
+
+🔭 **I’m currently working on:**
+AI-powered applications integrating FastAPI, React, and deep learning models.
+
+🤝 **I’m looking to collaborate on:**
+Open-source AI projects, ML research implementations, and innovative hackathon ideas aligned with the SDGs.
+
+💬 **I’m looking for help with:**
+Optimizing model deployment pipelines and improving inference performance for computer vision models.
+
+🌱 **I’m currently learning:**
+Transformers, Generative AI (GANs, VAEs), and AI Agent frameworks like LangChain.
+
+💡 **Ask me about:**
+Machine Learning, FastAPI, AI deployment, or fullstack AI project design.
+
+⚡ **Fun fact:**
+I enjoy turning complex AI papers into real-world applications — bridging the gap between research and engineering.
 
 
 ## 🌐 Socials:
